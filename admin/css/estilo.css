@@ -9925,10 +9925,12 @@ textarea.form-control {
 @media (min-width: 416px) {
 	.flores-tamano{
 		width:30%;
+		height:auto;
 	}
 }
 @media (max-width: 415px) {
 	.flores-tamano{
 		width:100%;
+		height:auto;
 	}
 }
