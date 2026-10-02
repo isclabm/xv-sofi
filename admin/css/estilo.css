@@ -9922,3 +9922,13 @@ textarea.form-control {
 	text-align:center;
 	color:#ceb88f;
 }
+@media (min-width: 416px) {
+	.flores-tamano{
+		width:30%;
+	}
+}
+@media (max-width: 415px) {
+	.flores-tamano{
+		width:100%;
+	}
+}
