@@ -8710,7 +8710,7 @@ textarea.form-control {
   z-index: 3; }
 
 .ftco-about .subheading {
-  /*font-weight: 700;*/
+  font-weight: 600;
   display: block;
   text-transform: uppercase;
   font-family: "Libre Caslon Text", serif; }
